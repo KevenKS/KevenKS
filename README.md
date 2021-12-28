@@ -1,7 +1,6 @@
 - Hi, I’m Keven Silva! :octocat:
 
-I am a back-end developer, graduated in systems analysis and development.
-However, seeking to be more complete, I also challenge myself on the front-end to become a Full-Stack.
+Full-Stack Developer, graduated in systems analysis and development and certified in AWS Cloud.
 
 Contatos:
 - 📫 keven.sp@hotmail.com
